@@ -31,7 +31,7 @@
         <h3>
 <a id="about-the-project" class="anchor" href="#about-the-project" aria-hidden="true"><span class="octicon octicon-link"></span></a>About the project</h3>
 
-<p>This project contains a Local Database with Students and Courses tables. The Data from these tables is fetched by WebForms .aspx pages here.</p>
+<p>This project contains a Local Database with Students and Courses tables. The Data from these tables if fetched by WebForms (.aspx pages) here.</p>
 
 <h3>
 <a id="repository-information" class="anchor" href="#repository-information" aria-hidden="true"><span class="octicon octicon-link"></span></a>Repository Information</h3>
