@@ -31,7 +31,7 @@
         <h3>
 <a id="about-the-project" class="anchor" href="#about-the-project" aria-hidden="true"><span class="octicon octicon-link"></span></a>About the project</h3>
 
-<p>This project contains a Local Database with Students and Courses tables. The Data from these tables if fetched by WebForms (.aspx pages) here.</p>
+<p>The University - Department of Computer Science. <br/> This project contains a Local Database with Students and Courses tables. The Data from these tables is fetched by WebForms .aspx pages here. The requirement was to display the Student records alongwith the Average grades which should be calculated dynamically. Additionally, Courses table records have been displayed on another page just to add more functionality and to go with the Design of "University" website.</p>
 
 <h3>
 <a id="repository-information" class="anchor" href="#repository-information" aria-hidden="true"><span class="octicon octicon-link"></span></a>Repository Information</h3>
